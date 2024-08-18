@@ -1,0 +1,2 @@
+# MediumAI
+AI Medium Blogger
