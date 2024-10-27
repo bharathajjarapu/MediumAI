@@ -1,0 +1,8 @@
+groq
+duckduckgo_search
+requests
+json
+PyPDF2
+bs4
+
+streamlit
