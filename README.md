@@ -1,7 +1,8 @@
 # MediumAI 💻🤖
 
-Hey there! Welcome to **MediumAI**, a fun project that showcases AI magic in a cozy, college-student style.  
-It’s simple, it’s cool, and helps you get started with AI projects without the fuss.
+Hey there! Welcome to **MediumAI**, a fun project that showcases AI writing a Medium Blog
+
+It’s simple, it’s cool, and scary thinking how many of these automations can be set for the upcoming Web.
 
 ## Features ✨
 - **Easy Setup**: Lightweight, minimal dependencies.
